@@ -21,7 +21,7 @@ DATABASE_URL = os.getenv(
 # 📢 LOG CHANNEL
 # ==============================
 
-LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID", "--1003692127639"))
+LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID", "-1003692127639"))
 
 # ==============================
 # ⚙ TAG SETTINGS

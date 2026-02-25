@@ -1,3 +1,6 @@
 pyrogram
 tgcrypto
 asyncpg
+asyncpg
+pyrogram
+tgcrypto
